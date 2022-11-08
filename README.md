@@ -8,4 +8,5 @@ This project also highlights certain conditions that may make certain instances 
 The tools utilized for this project was carried out strictyly with the use of Python Programming utilizing the Google Colab interface.
 
 All codes and libraries were written explicitly and comments on the page serve as guide to the intent of the codes written.
+
 100% understandable, 100% starter, first Github uploaded project, So help me God.
